@@ -6,14 +6,6 @@ description: "Ph.D. Robotics Engineer | Control • Estimation • Autonomous Sy
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jaringson.github.io" # the base hostname & protocol for your site
 
-<<<<<<< HEAD
-# Social links
-github_username: jaringson
-linkedin_username: jaron-ellingson
-
-# Build settings
-theme: minima
-=======
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
@@ -193,5 +185,4 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
->>>>>>> parent of aa763df (Update _config.yml)
 markdown: kramdown
